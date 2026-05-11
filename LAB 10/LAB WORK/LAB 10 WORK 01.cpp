@@ -1,3 +1,7 @@
+//NAME : MAAZ WAHAB
+//REG ID : BF25NWELE0719
+//DEPARTMENT : ELECTRICAL ENGINEERING
+//SECTION : A
 #include <iostream>
 using namespace std;
 
